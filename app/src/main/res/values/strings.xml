@@ -1,0 +1,24 @@
+<!DOCTYPE resources [<!ENTITY appname "Seekho">
+    <!ENTITY baseUrl "https://api.jikan.moe/v4/">
+    <!ENTITY apiKey "ENTER YOUR API KEY">
+    <!ENTITY domain "api.jikan.moe">]>
+<resources>
+    <string name="app_name" translatable="false">&appname;</string>
+    <string name="baseUrl" translatable="false">&baseUrl;</string>
+    <string name="domain" translatable="false">&domain;</string>
+    <string name="apiBaseUrl" translatable="false">&baseUrl;</string>
+    <string name="apikey" translatable="false">&apiKey;</string>
+    <string name="internal_server_error">Please try again after sometimes.</string>
+    <string name="please_try_again">Please try again after some times</string>
+    <string name="please_check_internet_connection">Please check your internet connection</string>
+    <string name="no_data_found">No data found</string>
+    <string name="only_on_seekho">Only on Seekho</string>
+    <string name="watch_dec">Watch HD anime anytime, anywhere!</string>
+    <string name="press_back_again">Press back again to exit</string>
+    <string name="episodes">Episodes :</string>
+    <string name="trailer">Trailer</string>
+    <string name="title">Title</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="genre">Genre\'s</string>
+    <string name="main_cast">Main Cast</string>
+</resources>
